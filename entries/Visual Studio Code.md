@@ -1,0 +1,1 @@
+Visual Studio Code (VS Code) is a free, open-source code editor developed by Microsoft. It is widely used by developers for writing code in various programming languages due to its lightweight nature, robust features, and extensive support for extensions.

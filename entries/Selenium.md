@@ -1,0 +1,1 @@
+Selenium is an open-source framework for automating web browsers. It allows developers and testers to simulate user interactions with web applications, such as clicking buttons, entering text, and navigating between pages.
