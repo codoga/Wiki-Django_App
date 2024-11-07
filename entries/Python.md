@@ -1,1 +1,1 @@
-Python is a programming language that can be used both for writing **command-line scripts** or building **web applications**.
+Python is a versatile, high level programming language that emphasizes readability and ease of use. It is popular for applications in web development, data analysis, artificial intelligence and automation, thanks to its powerful libraries and frameworks.

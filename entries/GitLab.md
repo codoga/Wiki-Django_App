@@ -1,0 +1,1 @@
+GitLab is a web-based DevOps tool that combines Git repository management with features for CI/CD, issue tracking, and code review, streamlining the entire software development lifecycle. 

@@ -1,0 +1,1 @@
+Jira is a project management tool developed by Atlassian. It is commonly used by software development for bug tracking.
