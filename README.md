@@ -30,7 +30,7 @@ To run this project locally, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd wiki
+   cd Wiki-Django_App
 3. Run the development server:
 
    ```bash
